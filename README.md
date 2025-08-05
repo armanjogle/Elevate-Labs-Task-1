@@ -58,7 +58,10 @@ The relationships include:
 | `task-1_ERdiagram2.dbdiagram.png`    | Entity-Relationship (ER) diagram of the schema (Created with Code) |
 | `README.md`         | Project overview and usage instructions        |
 
----
+## Tools
+- MySQL Workbench
+- dbdiagram
+- draw.io
 
 ##  How to Use
 
